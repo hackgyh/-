@@ -1,4 +1,4 @@
-#python编写英汉词典
+**python编写英汉词典**
 ```
 with open("dict.txt",encoding="utf8") as fp:
     a=fp.read()
