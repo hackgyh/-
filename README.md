@@ -1,5 +1,5 @@
-#＃ - 
 #python编写英汉词典
+```
 with open("dict.txt",encoding="utf8") as fp:
     a=fp.read()
     b=input("输入单词：")
@@ -22,3 +22,4 @@ with open("dict.txt",encoding="utf8") as fp:
             d=""
             e=""
         c+=1
+```
